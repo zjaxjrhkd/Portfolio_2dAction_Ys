@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - LeftBreak
+  - RightBreak
+  - TopBreak
+  - BottomBreak
+  - Enemy
+  - Change
+  - Break
+  - Attack
+  - Wall
+  - Papyrus
+  - System
+  - Asgore
+  - Fire
+  - Dumy
+  - Undyen
+  - Sans
+  - EndPhase
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Object
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2507085133
+    locked: 0
+  - name: Object
+    uniqueID: 1137208751
+    locked: 0
+  - name: Player
+    uniqueID: 55641639
+    locked: 0
+  - name: Hide
+    uniqueID: 2072113963
+    locked: 0
